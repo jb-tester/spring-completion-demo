@@ -1,7 +1,7 @@
 package org.example.springCompletionDemo.checkBeansCompletion;
 
 
-public interface GreetingService {
+public interface Greeting {
 
     String getGreetingMessage();
 }

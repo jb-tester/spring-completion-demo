@@ -8,7 +8,7 @@ public class GreetUser {
 
     public void greetUser() {
         System.out.println("===================");
-
+        System.out.println();
         System.out.println("===================");
     }
 

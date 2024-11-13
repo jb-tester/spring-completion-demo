@@ -4,7 +4,7 @@
     1. Open `org.example.springCompletionDemo.checkBeansCompletion.DayGreeting` class
     2. Inside the method body, type `user`:
        the completion should be shown that contains the `userService` bean name, select it and observe the results
-    3. Then type `greeting`, select `greetingService` and then one of implementations. Observe the results.
+    3. Then type `greeting`, select `greeting` and then one of implementations. Observe the results.
 2. Spring JPA repository method completion inside the repository interface
     1. Open the `org.example.springCompletionDemo.checkWithExistingRepository.PersonRepository` class
     2. type `findBy`:

@@ -1,7 +1,9 @@
 package org.example.springCompletionDemo.checkBeansCompletion;
 
-@org.springframework.stereotype.Service
-class DayGreeting implements GreetingService {
+import org.springframework.stereotype.Service;
+
+@Service
+class DayGreeting implements Greeting {
 
 
     @Override

@@ -1,7 +1,9 @@
 package org.example.springCompletionDemo.checkBeansCompletion;
 
-@org.springframework.stereotype.Service
-class MorningGreeting implements GreetingService {
+import org.springframework.stereotype.Service;
+
+@Service
+class MorningGreeting implements Greeting {
 
 
 
