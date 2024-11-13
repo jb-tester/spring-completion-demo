@@ -1,0 +1,10 @@
+insert into person(firstname, lastname, age, occupation) VALUES ( 'maria','stepanova', 18 , 'student');
+insert into person(firstname, lastname, age, occupation) VALUES ( 'ivan','ivanov', 28 , 'qa');
+insert into person(firstname, lastname, age, occupation) VALUES ( 'daria','glupova', 25 , 'manager');
+insert into person(firstname, lastname, age, occupation) VALUES ( 'ivan','mashkin', 17,'student' );
+insert into person(firstname, lastname, age, occupation) VALUES ( 'vasiliy','pupkin', 30, 'developer');
+insert into person(firstname, lastname, age, occupation) VALUES ( 'vasilisa','premudrova', 30, 'qa');
+insert into person(firstname, lastname, age, occupation) VALUES ( 'petr','ivanov', 16, 'schoolboy');
+insert into team(description, title, size) VALUES ('first team', 'team1', 10);
+insert into team(description, title, size) VALUES ('second team', 'team2', 8);
+insert into team(description, title, size) VALUES ('third team', 'team3', 7);
