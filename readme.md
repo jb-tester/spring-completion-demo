@@ -1,7 +1,7 @@
 # Spring completion demo
 
 1. Spring beans auto-injection using completion
-    1. Open `org.example.springCompletionDemo.checkBeansCompletion.DayGreeting` class
+    1. Open `org.example.springCompletionDemo.checkBeansCompletion.GreetUser` class
     2. Inside the method body, type `user`:
        the completion should be shown that contains the `userService` bean name, select it and observe the results
     3. Then type `greeting`, select `greeting` and then one of implementations. Observe the results.
